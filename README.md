@@ -18,5 +18,7 @@
 |   22UCYS#12  |  CHITLA VYSHALI <br/> |
 |   22UCYS#13  |  Charan K <br/>       |
 |   22UCYS#1X  |  G VETTRIVEL <br/>    |
+|   22UCYS#1X  |  Gunateet Dev <br/>   |
+|   22UCYS#1X  |  Harshith Gangisetty <br/> MARRI SANJU <br/> Palakurty Roopak Naga Venkata Sree Sai <br/> VAJJULA SATYA SIDDARDHA <br/>  RUDRA SRI LAKSHMI |
 |   22UCYS#1X  |  KRISHNAMOORTHI P L <br/> S MOHANA VAMSI <br/> SREE SHARVESH S S <br/> Mukesh R | 
 |   22UCYS#1X  |  Pavan Shanmukha Madhav Gunda <br/>  | 
