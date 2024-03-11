@@ -22,8 +22,8 @@
 |   22UCYS#1X  |  Gunateet Dev <br/>   |
 |   22UCYS#1X  |  Harshith Gangisetty <br/> Marri Sanju <br/> Palakurty Roopak Naga Venkata Sree Sai <br/> Vajjula Satya Siddardha <br/>  Rudra Sri Lakshmi |
 |   22UCYS#1X  |  Krishnamoorthi P L <br/> S Mohana Vamsi <br/> Sree Sharvesh S S <br/> Mukesh R | 
-|   22UCYS#1X  |  Lalitha K <br/>  | 
+|   22UCYS#1X  |  Lalitha K <br/> Parthiv Kumar Nikku <br> Saride Someswara Sai Sri Chakri | 
 |   22UCYS#1X  |  Pavan Shanmukha Madhav Gunda <br/>  | 
 |   22UCYS#1X  |  Vishal R S <br/> |
 
-Last Updated: 09-Mar-2024
+Last Updated: 11-Mar-2024
