@@ -25,4 +25,4 @@
 |   22UCYS#1X  |  Lalitha K <br/> Parthiv Kumar Nikku <br> Saride Someswara Sai Sri Chakri | 
 |   22UCYS#1X  |  Vishal R S <br/> |
 
-Last Updated: 11-Mar-2024
+Last Updated: 13-Mar-2024
