@@ -11,10 +11,10 @@
 |   22UCYS#04  |  Aishwarya S <br/> Deepak Kumar S <br/> Shree Harini T <br/> Parvathi S |
 |   22UCYS#05  |  Amal Ritessh A P <br/> Ananth R <br/> Mukund Kumarappan S <br/> Shravan Krishnan.G |
 |   22UCYS#06  |  Arul Sujith <br/> Hemadhri P C <br/>  Hemanth Kumaar J P <br/> Jose Rohit M  |
-|   22UCYS#07  |  Asrita N L <br/> Lalitha K <br/> Parthiv Kumar Nikku <br> Saride Someswara Sai Sri Chakri | 
+|   22UCYS#07  |  Asrita N L <br/> Lalitha K <br/> Parthiv Kumar Nikku <br> Saride Someswara Sai Sri Chakri <br/> Yallanuru Kishan Sai | 
 |   22UCYS#08  |  Aadhithya Sivakumar <br/> Avi Nair <br/> G Hamsini <br/> Rahul Shankar V |
 |   22UCYS#09  |  Akshit Singh <br/> Chitla Vyshali <br/> Dharshika S <br/> Joshua Anto A <br/> Midhrujayan K |
-|   22UCYS#10  |  B M Sai Sathvik <br/> Karthick M <br/> Kaushik M <br/> B. Vijay Nishanth |
+|   22UCYS#10  |  B M Sai Sathvik <br/> Karthick M <br/> Kaushik M <br/> Rathnesh R <br/> B. Vijay Nishanth |
 |   22UCYS#11  |  Boddu Prem Kumar <br/> Chinni Nagasree Hansica <br/> Mareddy Sai Tejas <br/> Vishal S <br/> Tangella Sree Chandan |
 |   22UCYS#12  |  Burla Rushyendra Reddy <br/> N.Meera <br/> Nedurumalli Vedvarshith Reddy <br/> Kolluru Sai Supraj <br/> Amita Narayanan Kutty |
 |   22UCYS#13  |  G Vettrivel <br/> Gunateet Dev <br/> Logesh R <br/>  Pavan Shanmukha Madhav Gunda <br/> Mothe Anurag Reddy |
