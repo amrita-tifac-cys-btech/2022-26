@@ -18,7 +18,7 @@
 |   22UCYS#11  |  Boddu Prem Kumar <br/> Chinni Nagasree Hansica <br/> Mareddy Sai Tejas <br/> Vishal S <br/> Tangella Sree Chandan |
 |   22UCYS#12  |  Burla Rushyendra Reddy <br/> N.Meera <br/> Nedurumalli Vedvarshith Reddy <br/> Kolluru Sai Supraj <br/> Amita Narayanan Kutty |
 |   22UCYS#13  |  G Vettrivel <br/> Gunateet Dev <br/> Logesh R <br/>  Pavan Shanmukha Madhav Gunda <br/> Mothe Anurag Reddy |
-|   22UCYS#14  |  Harshith Gangisetty <br/> Marri Sanju <br/> Palakurty Roopak Naga Venkata Sree Sai <br/> Vajjula Satya Siddardha <br/>  Rudra Sri Lakshmi |
+|   22UCYS#14  |  Harshith Gangisetty <br/> Karri Jeeshitha <br/> Marri Sanju <br/> Palakurty Roopak Naga Venkata Sree Sai <br/> Vajjula Satya Siddardha <br/>  Rudra Sri Lakshmi |
 |   22UCYS#15  |  Krishnamoorthi P L <br/> S Mohana Vamsi <br/> Sree Sharvesh S S <br/> Mukesh R | 
 
 Last Updated: 16-Mar-2024
