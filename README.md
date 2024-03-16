@@ -11,7 +11,7 @@
 |   22UCYS#04  |  Aishwarya S <br/> Deepak Kumar S <br/> Shree Harini T <br/> Parvathi S |
 |   22UCYS#05  |  Amal Ritessh A P <br/> Ananth R <br/> Mukund Kumarappan S <br/> Shravan Krishnan.G |
 |   22UCYS#06  |  Arul Sujith <br/> Hemadhri P C <br/>  Hemanth Kumaar J P <br/> Jose Rohit M  |
-|   22UCYS#07  |  Asrita N L <br/> Lalitha K <br/> Parthiv Kumar Nikku <br> Saride Someswara Sai Sri Chakri <br/> Yallanuru Kishan Sai | 
+|   22UCYS#07  |  Asrita N L <br/> Lalitha K <br/> Parthiv Kumar Nikku <br/> Pillimetla Vamsi <br> Saride Someswara Sai Sri Chakri <br/> Yallanuru Kishan Sai | 
 |   22UCYS#08  |  Aadhithya Sivakumar <br/> Avi Nair <br/> G Hamsini <br/> Rahul Shankar V |
 |   22UCYS#09  |  Akshit Singh <br/> Chitla Vyshali <br/> Dharshika S <br/> Joshua Anto A <br/> Midhrujayan K |
 |   22UCYS#10  |  B M Sai Sathvik <br/> Karthick M <br/> Kaushik M <br/> Rathnesh R <br/> B. Vijay Nishanth |
@@ -21,4 +21,4 @@
 |   22UCYS#14  |  Harshith Gangisetty <br/> Marri Sanju <br/> Palakurty Roopak Naga Venkata Sree Sai <br/> Vajjula Satya Siddardha <br/>  Rudra Sri Lakshmi |
 |   22UCYS#15  |  Krishnamoorthi P L <br/> S Mohana Vamsi <br/> Sree Sharvesh S S <br/> Mukesh R | 
 
-Last Updated: 15-Mar-2024
+Last Updated: 16-Mar-2024
