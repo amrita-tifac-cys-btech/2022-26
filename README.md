@@ -18,7 +18,7 @@
 |   22UCYS#11  |  Boddu Prem Kumar <br/> Chinni Nagasree Hansica <br/> Mareddy Sai Tejas <br/> Vishal S <br/> Tangella Sree Chandan | OWASP and VAPT |
 |   22UCYS#12  |  Burla Rushyendra Reddy <br/> N.Meera <br/> Nedurumalli Vedvarshith Reddy <br/> Kolluru Sai Supraj <br/> Amita Narayanan Kutty | Forensics and OSINT |
 |   22UCYS#13  |  G Vettrivel <br/> Gunateet Dev <br/> Logesh R <br/>  Pavan Shanmukha Madhav Gunda  | OSINT and VAPT |
-|   22UCYS#14  |  Harshith Gangisetty <br/> Karri Jeeshitha <br/> Marri Sanju <br/> Palakurty Roopak Naga Venkata Sree Sai <br/> Vajjula Satya Siddardha <br/>  Rudra Sri Lakshmi |
+|   22UCYS#14  |  Harshith Gangisetty <br/> Karri Jeeshitha <br/> Marri Sanju <br/> Palakurty Roopak Naga Venkata Sree Sai <br/> Vajjula Satya Siddardha <br/>  Rudra Sri Lakshmi | Cloud Security | 
 |   22UCYS#15  |  Krishnamoorthi P L <br/> S Mohana Vamsi <br/> Sree Sharvesh S S <br/> Mukesh R | VAPT |
 
-Last Updated: 06-Apr-2024
+Last Updated: 24-Apr-2024
