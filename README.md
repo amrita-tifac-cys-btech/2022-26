@@ -1,4 +1,4 @@
-# 2022CYS B.Tech Dissertation ![](https://img.shields.io/badge/-To_be_Started-orange)
+# 2022CYS B.Tech Dissertation ![](https://img.shields.io/badge/-_Started-darkgreen)
 ![](https://img.shields.io/badge/Batch-22UCYS-green) ![](https://img.shields.io/badge/Domain-Security-blue) 
 
 ## Teams
@@ -31,6 +31,10 @@
   - Updated the Domain Areas 1 Level further 
   - All Teams should read CyBOK [Human Factors](https://www.cybok.org/media/downloads/Human_Factors_v1.0.1.pdf) and [Adversarial Behaviours](https://www.cybok.org/media/downloads/Adversarial_Behaviours_v1.0.1.pdf)
   - In Addition, two CyBOK documents related to their Domain Area
-  - Latex Presentation 
+  - Latex Presentation
+- **24-Sept-2024: Project Domains, Ideas discussed by Sitaram sir**
+  - Venue: Acharya Hall, AB1.
+  - Faculties attended
+  - 2 Problem statements to be formed before next visit.    
  
-##### Last Updated: 09-May-2024
+##### Last Updated: 30-September-2024
