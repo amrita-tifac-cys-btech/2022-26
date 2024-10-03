@@ -20,21 +20,5 @@
 |   [22UCYS#13](https://github.com/re-bin-d-22ucys/22UCYS-13)  |  G Vettrivel <br/> [Gunateet Dev]() <br/> Logesh R <br/>  Pavan Shanmukha Madhav Gunda <br/> Rathnesh R <br/>  | VAPT |  Software Security <br/> Secure Software Lifecycle   | Sem 5 - Day 5 | 
 |   [22UCYS#14](https://github.com/re-bin-d-22ucys/22UCYS-14)  |  [Harshith Gangisetty]() <br/> Karri Jeeshitha <br/> Marri Sanju <br/> Palakurty Roopak Naga Venkata Sree Sai <br/> Vajjula Satya Siddardha <br/>  Rudra Sri Lakshmi | Cloud Security | Distributed Systems Security <br/> Operating Systems & Virtualisation Security <br/> Cyber Physical Systems   | Sem 5 - Day 5 |
 |   [22UCYS#15](https://github.com/re-bin-d-22ucys/22UCYS-15)  |  [Krishnamoorthi P L]() <br/> S Mohana Vamsi <br/> Sree Sharvesh S S <br/> Mukesh R | VAPT | Software Security <br/> Network Security  | Sem 5 - Day 5 |
-
-### Tasks
-- **09-Mar-2024: Formation of Teams Call For**
-- **16-Mar-2024: Formation of Teams Deadline**
-- **06-Apr-2024: Formation of Teams - First Draft**
-  - Communicated to Sethu Sir
-- **17-Apr-2024: Submission of Tenatative Domain Areas**  
-- **09-May-2024: CyBOK Reading Task assigned Semester Holidays**
-  - Updated the Domain Areas 1 Level further 
-  - All Teams should read CyBOK [Human Factors](https://www.cybok.org/media/downloads/Human_Factors_v1.0.1.pdf) and [Adversarial Behaviours](https://www.cybok.org/media/downloads/Adversarial_Behaviours_v1.0.1.pdf)
-  - In Addition, two CyBOK documents related to their Domain Area
-  - Latex Presentation
-- **24-Sept-2024: Project Domains, Ideas discussed by Sitaram sir**
-  - Venue: Acharya Hall, AB1.
-  - Faculties attended
-  - 2 Problem statements to be formed before next visit.    
  
 ##### Last Updated: 03-October-2024
