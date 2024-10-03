@@ -14,10 +14,10 @@
 |   [22UCYS#07](https://github.com/re-bin-d-22ucys/22UCYS-07)  |  Asrita N L <br/> [Lalitha K]() <br/> Parthiv Kumar Nikku <br/> Pillimetla Vamsi <br> Saride Someswara Sai Sri Chakri <br/> Yallanuru Kishan Sai | OAuth |  Authentication, Authorisation & Accountability  <br/> Secure Software Lifecycle | Sem 5 - Day 3 |
 |   [22UCYS#08](https://github.com/re-bin-d-22ucys/22UCYS-08)  |  Aadhithya Sivakumar <br/> Avi Nair <br/> G Hamsini <br/> [Rahul Shankar V]() | Web and Mobile Security |  Web & Mobile Security <br/> Software Security  | Sem 5 - Day 3 |
 |   [22UCYS#09](https://github.com/re-bin-d-22ucys/22UCYS-09)  |  Akshit Singh <br/> Chitla Vyshali <br/> Dharshika S <br/> [Joshua Anto A]() <br/> Midhrujayan K | Cloud Security |   Network Security <br/> Distributed Systems Security   | Sem 5 - Day 3 |
-|   [22UCYS#10](https://github.com/re-bin-d-22ucys/22UCYS-10)  |  B M Sai Sathvik <br/> Karthick M <br/> [Kaushik M]() <br/> Rathnesh R <br/> Vishal R S <br/> B. Vijay Nishanth | Cloud Security | Distributed Systems Security <br/> Operating Systems & Virtualisation Security  | Sem 5 - Day 4 |
+|   [22UCYS#10](https://github.com/re-bin-d-22ucys/22UCYS-10)  |  B M Sai Sathvik <br/> Karthick M <br/> [Kaushik M]() <br/> Vishal R S <br/> B. Vijay Nishanth | Cloud Security | Distributed Systems Security <br/> Operating Systems & Virtualisation Security  | Sem 5 - Day 4 |
 |   [22UCYS#11](https://github.com/re-bin-d-22ucys/22UCYS-11)  |  Boddu Prem Kumar <br/> [Chinni Nagasree Hansica]() <br/> Mareddy Sai Tejas <br/> Vishal S <br/> Tangella Sree Chandan | Web & Mobile Security |  Web & Mobile Security   <br/>  | Sem 5 - Day 4 |
 |   [22UCYS#12](https://github.com/re-bin-d-22ucys/22UCYS-12)  |  Burla Rushyendra Reddy <br/> N.Meera <br/> Nedurumalli Vedvarshith Reddy <br/> [Kolluru Sai Supraj]() <br/> Amita Narayanan Kutty | Mobile Forensics | Web & Mobile Security <br/> Forensics    | Sem 5 - Day 4 |
-|   [22UCYS#13](https://github.com/re-bin-d-22ucys/22UCYS-13)  |  G Vettrivel <br/> [Gunateet Dev]() <br/> Logesh R <br/>  Pavan Shanmukha Madhav Gunda  | VAPT |  Software Security <br/> Secure Software Lifecycle   | Sem 5 - Day 5 | 
+|   [22UCYS#13](https://github.com/re-bin-d-22ucys/22UCYS-13)  |  G Vettrivel <br/> [Gunateet Dev]() <br/> Logesh R <br/>  Pavan Shanmukha Madhav Gunda <br/> Rathnesh R <br/>  | VAPT |  Software Security <br/> Secure Software Lifecycle   | Sem 5 - Day 5 | 
 |   [22UCYS#14](https://github.com/re-bin-d-22ucys/22UCYS-14)  |  [Harshith Gangisetty]() <br/> Karri Jeeshitha <br/> Marri Sanju <br/> Palakurty Roopak Naga Venkata Sree Sai <br/> Vajjula Satya Siddardha <br/>  Rudra Sri Lakshmi | Cloud Security | Distributed Systems Security <br/> Operating Systems & Virtualisation Security <br/> Cyber Physical Systems   | Sem 5 - Day 5 |
 |   [22UCYS#15](https://github.com/re-bin-d-22ucys/22UCYS-15)  |  [Krishnamoorthi P L]() <br/> S Mohana Vamsi <br/> Sree Sharvesh S S <br/> Mukesh R | VAPT | Software Security <br/> Network Security  | Sem 5 - Day 5 |
 
@@ -37,4 +37,4 @@
   - Faculties attended
   - 2 Problem statements to be formed before next visit.    
  
-##### Last Updated: 30-September-2024
+##### Last Updated: 03-October-2024
