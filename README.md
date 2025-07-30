@@ -3,14 +3,15 @@
 </p>
 
 # B.Tech CSE (CYS) Batch 2022-26 ![](https://img.shields.io/badge/-Live-brightgreen)
-![](https://img.shields.io/badge/Batch-22UCYS-green) ![](https://img.shields.io/badge/Domain-Security-blue) 
+![](https://img.shields.io/badge/Batch-22UCYS-gold)  <br/> 
+![](https://img.shields.io/badge/Domain-OT_Security-blue) ![](https://img.shields.io/badge/Domain-Cyber_Awareness-blue) ![](https://img.shields.io/badge/Domain-Containerization-blue) ![](https://img.shields.io/badge/Domain-Password_Security-blue)
 
-### Mentor : Mr. Sitaram Chamarty, Professor of Practice, TIFAC-CORE in Cyber Security, ASC - Coimbatore.
-### Project Coordinator: Mr. Sreejith K, Assistant Professor (OC), TIFAC-CORE in Cyber Security, ASC - Coimbatore.
+### Mentor : Mr. Sitaram Chamarty, Professor of Practice, TIFAC-CORE in Cyber Security, Coimbatore.
+### Project Coordinator: Mr. Sreejith K, Assistant Professor (OC), TIFAC-CORE in Cyber Security, Coimbatore.
 
 ## Project Groups
 
-| Team #ID | Guide                  | Roll Numbers           | Project Title     | Team Members      |
+| Team #ID | Project Guide                  | Roll Numbers           | Project Title     | Team Members      |
 |:--------:|:----------------------:|:---------------------:|--------------------|-------------------|
 | [22UCYS#01](https://github.com/re-bin-d-22ucys/22UCYS-01) | [Mr. Anand R Nair](https://www.amrita.edu/faculty/anand-r-nair/)| 22010 <br/> 22012 <br/> 22023 <br/> 22052 |  Containerization of Android Apps | Aadhithya Sivakumar <br/> Avi Nair <br/> G Hamsini <br/> Rahul Shankar V     |
 | [22UCYS#02](https://github.com/re-bin-d-22ucys/22UCYS-02) | [Mr. Anand R Nair](https://www.amrita.edu/faculty/anand-r-nair/) | 22004 <br/> 22020 <br/> 22060 <br/> 22066 | Integration of Wazuh with SOAR | Aishwarya S <br/> Deepak Kumar S <br/> Shree Harini T <br/> S Parvathi        |
