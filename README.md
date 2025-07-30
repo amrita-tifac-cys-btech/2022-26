@@ -5,8 +5,8 @@
 # B.Tech CSE (CYS) Batch 2022-26 ![](https://img.shields.io/badge/-Live-brightgreen)
 ![](https://img.shields.io/badge/Batch-22UCYS-green) ![](https://img.shields.io/badge/Domain-Security-blue) 
 
-##### Mentor : Mr. Sitaram Chamarty, Professor of Practice, TIFAC-CORE in Cyber Security, ASC - Coimbatore.
-##### Project Coordinator: Mr. Sreejith K, Assistant Professor (OC), TIFAC-CORE in Cyber Security, ASC - Coimbatore.
+### Mentor : Mr. Sitaram Chamarty, Professor of Practice, TIFAC-CORE in Cyber Security, ASC - Coimbatore.
+### Project Coordinator: Mr. Sreejith K, Assistant Professor (OC), TIFAC-CORE in Cyber Security, ASC - Coimbatore.
 
 ## Project Groups
 
