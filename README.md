@@ -4,7 +4,16 @@
 
 # B.Tech CSE (CYS) Batch 2022-26 ![](https://img.shields.io/badge/-Live-brightgreen)
 ![](https://img.shields.io/badge/Batch-22UCYS-gold) ![](https://img.shields.io/badge/Faculty_Guides-14-gold) ![](https://img.shields.io/badge/Teams-18-gold)  <br/>
-![](https://img.shields.io/badge/Domain-OT_Security-blue) ![](https://img.shields.io/badge/Domain-Cyber_Awareness-blue) ![](https://img.shields.io/badge/Domain-Containerization-blue) ![](https://img.shields.io/badge/Domain-Password_Security-blue)
+![](https://img.shields.io/badge/Domain-Web_Security-blue)
+![](https://img.shields.io/badge/Domain-Network_Security-blue)
+![](https://img.shields.io/badge/Domain-Cloud_Security-blue)
+![](https://img.shields.io/badge/Domain-Application_Security-blue)
+![](https://img.shields.io/badge/Domain-IoT_%26_OT_Security-blue)
+![](https://img.shields.io/badge/Domain-Cryptography-blue)
+![](https://img.shields.io/badge/Domain-Threat_Detection-blue)
+![](https://img.shields.io/badge/Domain-Cyber_Awareness-blue)
+![](https://img.shields.io/badge/Domain-Password_Security-blue)
+
 
 ### Mentor : Mr. Sitaram Chamarty, Professor of Practice, TIFAC-CORE in Cyber Security, Coimbatore.
 ### Project Coordinator: Mr. Sreejith K, Assistant Professor (OC), TIFAC-CORE in Cyber Security, Coimbatore.
@@ -30,4 +39,4 @@
 | [22UCYS#15](https://github.com/amrita-tifac-cys-btech/Implementation-of-a-Hybrid-Post-Quantum-VPN-Protocol-with-Quantum-Key-Integration) | [Dr. Lakshmy K V](https://www.amrita.edu/faculty/kv-lakshmy/) | 22003 <br/> 22013 <br/> 22036 <br/> 22074 |  [Implementation of a Hybrid Post-Quantum VPN Protocol with Quantum Key Integration](https://github.com/amrita-tifac-cys-btech/Implementation-of-a-Hybrid-Post-Quantum-VPN-Protocol-with-Quantum-Key-Integration) | Agilprasanna P <br/> B M  Sai Sathvik <br/> Logesh R <br/> B. Vijay Nishanth |
 | [22UCYS#16](https://github.com/amrita-tifac-cys-btech/Lightweight-Threat-Detection-System-for-Edge-Devices-using-Linux-Security-Tools) | [Ms. Bindu Avadhani](https://www.amrita.edu/faculty/avadhani-bindu/) | 22024 <br/> 22034 <br/> 22035 <br/> 22053  |  [Lightweight Threat Detection System for Edge Devices using Linux Security Tools](https://github.com/amrita-tifac-cys-btech/Lightweight-Threat-Detection-System-for-Edge-Devices-using-Linux-Security-Tools) |  G Vettrivel <br/> Karthick M <br/> Kaushik M <br/> Rathnesh R    |
 | [22UCYS#17](https://github.com/amrita-tifac-cys-btech/Exploring-Data-Diodes-for-Cyber-Physical-System-Security) | [Mr. Ramaguru Radhakrishnan](https://www.amrita.edu/faculty/ramaguru-radhakrishnan/) | 22036 <br/> 22046 <br/> 22047 <br/> 22059 |  [Exploring Data Diodes for Cyber Physical System Security](https://github.com/amrita-tifac-cys-btech/Exploring-Data-Diodes-for-Cyber-Physical-System-Security) | Lalitha K <br/> Parthiv Kumar Nikku <br/> Pillimetla Vamsi <br/> Saride Someswara Sai Sri Chakri   |
-| [22UCYS#18](https://github.com/amrita-tifac-cys-btech/Automated-Authentication-Testing-Tool-for-JWT-and-OAuth-Vulnerabilities) | [Dr. Jevitha K P](https://www.amrita.edu/faculty/kp-jevitha/) | 22011 <br/> 22014 <br/> 22025 <br/> 22049 <br/> 22075 | [Automated Authentication Testing Tool for JWT and OAuth Vulnerabilities](https://github.com/amrita-tifac-cys-btech/Automated-Authentication-Testing-Tool-for-JWT-and-OAuth-Vulnerabilities) |  Akshit Singh <br/> Boddu Prem Kumar <br/> Gunateet Dev <br/> Pavan Shanmukha Madhav Gunda  <br/> Vishal S     |
+| [22UCYS#18](https://github.com/amrita-tifac-cys-btech/Automated-Authentication-Testing-Tool-for-JWT-and-OAuth-Vulnerabilities) | [Dr. Jevitha K P](https://www.amrita.edu/faculty/kp-jevitha/) | ~22011~ <br/> 22014 <br/> 22025 <br/> 22049 <br/> 22075 | [Automated Authentication Testing Tool for JWT and OAuth Vulnerabilities](https://github.com/amrita-tifac-cys-btech/Automated-Authentication-Testing-Tool-for-JWT-and-OAuth-Vulnerabilities) | ~Akshit Singh~ <br/> Boddu Prem Kumar <br/> Gunateet Dev <br/> Pavan Shanmukha Madhav Gunda  <br/> Vishal S     |
